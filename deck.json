@@ -1,13 +1,13 @@
 {
     "__type__": "Deck",
     "children": [],
-    "crowdanki_uuid": "521844de-0f62-11eb-8ddc-813842d75d32",
-    "deck_config_uuid": "521844df-0f62-11eb-8ddc-813842d75d32",
+    "crowdanki_uuid": "21fde06c-0f65-11eb-8ddc-813842d75d32",
+    "deck_config_uuid": "21fde06d-0f65-11eb-8ddc-813842d75d32",
     "deck_configurations": [
         {
             "__type__": "DeckConfig",
             "autoplay": true,
-            "crowdanki_uuid": "521844df-0f62-11eb-8ddc-813842d75d32",
+            "crowdanki_uuid": "21fde06d-0f65-11eb-8ddc-813842d75d32",
             "dyn": false,
             "lapse": {
                 "delays": [
@@ -39858,7 +39858,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "She was sitting under a tree.",
+                "She was sitting under a tree.<br>She was a (plant) tree under sit with",
                 "tā zài yī kē shù xià zuò zhe.",
                 "她在一棵树下坐着。",
                 "[sound:332962.mp3]"
@@ -39870,7 +39870,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "We have to wash our hands before eating.",
+                "We have to wash our hands before eating.<br>Eat before must wash-hand",
                 "Chīfàn qián yào xǐshǒu.",
                 "吃饭前要洗手。",
                 "[sound:tmp8vkdtb.mp3]"
@@ -39894,8 +39894,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "The government has allocated money to build a school.",
-                "Zhèngfǔ bōqián jiàn xuéxiào.",
+                "The government has allocated money to build a school.<br>Government allocate money build school",
+                "Zhèngfǔ bō qián jiàn xuéxiào.",
                 "政府拨钱建学校。",
                 "[sound:tmpbkbzw2.mp3]"
             ],
@@ -39930,7 +39930,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "That newspaper announces the government's policies on behalf of the government.",
+                "That newspaper announces the government's policies on behalf of the government.<br>That copy newspaper for government advocates policy",
                 "Nà fèn bàozhǐ tì zhèngfǔ xuānchuán zhèngcè.",
                 "那份报纸替政府宣传政策。",
                 "[sound:tmpg6xdf_.mp3]"
@@ -39966,7 +39966,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "This restaurant is releasing a new dish.",
+                "This restaurant is releasing a new dish.<br>This restaurant releases a type new dish",
                 "Zhèjiā fàndiàn tuīchū yīdào xīn cài.",
                 "这家饭店推出一道新菜。",
                 "[sound:tmpoxd7gt.mp3]"
@@ -40026,7 +40026,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "The tall one of the group is my older brother.",
+                "The tall one of the group is my older brother.<br>Group 's tall-one concerning is my brother",
                 "Qízhōng de gāogèzi jiù shì wǒ gēge.",
                 "其中的高个子就是我哥哥。",
                 "[sound:tmp8hb7ui.mp3]"
