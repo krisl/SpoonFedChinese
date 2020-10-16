@@ -1,13 +1,13 @@
 {
     "__type__": "Deck",
     "children": [],
-    "crowdanki_uuid": "9e62d8e6-0f61-11eb-8ddc-813842d75d32",
-    "deck_config_uuid": "9e62d8e7-0f61-11eb-8ddc-813842d75d32",
+    "crowdanki_uuid": "521844de-0f62-11eb-8ddc-813842d75d32",
+    "deck_config_uuid": "521844df-0f62-11eb-8ddc-813842d75d32",
     "deck_configurations": [
         {
             "__type__": "DeckConfig",
             "autoplay": true,
-            "crowdanki_uuid": "9e62d8e7-0f61-11eb-8ddc-813842d75d32",
+            "crowdanki_uuid": "521844df-0f62-11eb-8ddc-813842d75d32",
             "dyn": false,
             "lapse": {
                 "delays": [
@@ -39834,7 +39834,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "I gave my key to the landlord.",
+                "I gave my key to the landlord.<br>I put key cross-gave landlord",
                 "Wǒ bǎ yàoshi jiāogěile fángdōng.",
                 "我把钥匙交给了房东。",
                 "[sound:tmpcxl8po.mp3]"
